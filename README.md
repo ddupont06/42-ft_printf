@@ -68,7 +68,7 @@ Clone this repository and access its folder:
 git clone https://github.com/ddupont06/42-ft_printf.git && cd 42-ft_printf
 ```
 
-To compile the `libftprintf.a` program (cf. [`subjet`](ft_printf.pdf)) run:
+To compile the `libftprintf.a` program (cf. [`subject`](ft_printf.pdf)) run:
 
 ```shell
 make
