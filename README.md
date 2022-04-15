@@ -161,7 +161,7 @@ gcc <projet.c> ft_printf.c -o <project_name>
 gcc <projet.c> libftprintf.a -o <project_name>
 ```
 
-Note that the outputs may vary depending on your OS. For example, when a NULL pointer `%p` is sent to [`ft_printf()`](ft_printf.c) the return value is `(nil)` on Linux and `0x0` on MacOS.
+Note that the outputs may vary depending on your OS. For example, when a NULL pointer `%p` is sent to [`ft_printf()`](ft_printf.c) the return value is `(nil)` on GNU/Linux and `0x0` on macOS.
 
 
 To delete all the objet `*.o` files after compilation run:
